@@ -12,7 +12,7 @@ Use $ian-xiaohei-illustrations 先不要生图。
 - 图的主题
 - 核心意思
 - 结构类型
-- 小黑在图里做什么
+- xiaopi 在图里做什么
 - 建议元素
 - 建议中文标注词
 
@@ -22,8 +22,8 @@ Use $ian-xiaohei-illustrations 先不要生图。
 ## 文章正文配图
 
 ```text
-Use $ian-xiaohei-illustrations 把下面这篇文章生成 4 张小黑怪诞正文配图。
-要求：16:9 横版、纯白背景、黑色手绘线稿、少量红橙蓝中文手写批注。
+Use $ian-xiaohei-illustrations 把下面这篇文章生成 4 张 xiaopi 诙谐正文配图。
+要求：16:9 横版、纯白背景、黑色手绘线稿（或细黑描边）、少量红橙蓝中文手写批注。
 每张图只讲一个核心结构，不要做 PPT 信息图，不要可爱卡通。
 
 <粘贴文章>
@@ -36,7 +36,7 @@ Use $ian-xiaohei-illustrations 给这篇长文做配图策略。
 不要平均配图，只挑认知锚点：核心判断、输入输出闭环、前后对比、常见坑、承接路径。
 默认 6-8 张，先输出 shot list，不要生成图片。
 
-<粘贴文章>
+<粘���文章>
 ```
 
 ## 单个观点生成一张图
@@ -46,7 +46,7 @@ Use $ian-xiaohei-illustrations 为这个观点生成一张 16:9 正文配图：
 
 信任不是喊出来的，而是一块证据一块证据铺过去。
 
-画面要怪诞但清爽，小黑必须承担核心动作。
+画面要怪诞但清爽，xiaopi 必须承担核心动作。
 中文标注最多 5 个，短一点。
 ```
 
@@ -55,7 +55,7 @@ Use $ian-xiaohei-illustrations 为这个观点生成一张 16:9 正文配图：
 ```text
 Use $ian-xiaohei-illustrations 为“把一条原始素材加工成流量、信任、转化三种内容”生成一张图。
 不要画正式流程图，不要复刻一鱼多吃旧案例。
-请重新发明一个新的低科技隐喻，让小黑参与核心动作。
+请重新发明一个新的低科技隐喻，让 xiaopi 参与核心动作。
 ```
 
 ## 改图：去掉标题
@@ -66,18 +66,18 @@ Use $ian-xiaohei-illustrations 帮我编辑这张图。
 不要新增任何文字或物件。
 ```
 
-## 改图：增强小黑参与感
+## 改图：增强 xiaopi 参与感
 
 ```text
-Use $ian-xiaohei-illustrations 这张图方向对，但小黑有点像装饰。
-请保持核心意思不变，重生成一版：让小黑成为真正推动结构运转的人。
+Use $ian-xiaohei-illustrations 这张图方向对，但 xiaopi 有点像装饰。
+请保持核心意思不变，重生成一版：让 xiaopi 成为真正推动结构运转的人。
 画面更怪一点，但仍然纯白、清爽、少字。
 ```
 
 ## 生成一组风格样片
 
 ```text
-Use $ian-xiaohei-illustrations 输出 5 个不同主题的小黑正文配图效果。
+Use $ian-xiaohei-illustrations 输出 5 个不同主题的 xiaopi 正文配图效果。
 主题分别覆盖：信息过载、产品验证、内容复利、一人公司、信任建立。
 每张单独生成，不要拼成一张。
 ```
